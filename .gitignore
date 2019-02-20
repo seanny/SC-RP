@@ -1,0 +1,4 @@
+# Binary Files
+*.dll
+*.so
+*.amx
